@@ -1,0 +1,4 @@
+A001:stylo;3.5;unité
+L010:tomate;2.50;kg
+L012:citron;0.5;unité
+B023:lait en vrac;2;litre
